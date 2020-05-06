@@ -1,0 +1,17 @@
+{
+    "name": "DesignerMode",
+    "description": "Full exe mod which unhides the Designer Mode button from the toolbar. Designer mode allows you to view NPR empires as though they were player races, and is a common cause for ruining saves. Do not make changes to other empires in Designer Mode unless you have backed up your save.",
+    "status": "poweruser",
+    "type": "executable",
+    "launch_command": "Aurora-modded.designer.mode.1.9.5.exe",
+
+
+    "downloads":
+    [
+        {
+            "version": "1.9.5",
+            "target_aurora_version": "1.9",
+            "download_url": "https://github.com/AbsolutelyNoFires/AuroraModding/blob/master/Aurora-modded.designer.mode.1.9.5.exe"
+        }
+    ]
+}
