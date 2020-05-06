@@ -11,7 +11,7 @@
         {
             "version": "1.9.5",
             "target_aurora_version": "1.9",
-            "download_url": "https://github.com/AbsolutelyNoFires/AuroraModding/blob/master/Aurora-modded.designer.mode.1.9.5.exe"
+            "download_url": "https://github.com/AbsolutelyNoFires/AuroraModding/raw/master/Aurora-modded.designer.mode.1.9.5.zip"
         }
     ]
 }
